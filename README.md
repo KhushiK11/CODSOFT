@@ -23,7 +23,7 @@ Make sure you have the following installed on your machine:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/rule-based-chatbot.git
+   git clone https://github.com/KhushiK11/CODSOFT.git
    cd rule-based-chatbotNo external dependencies are required for this project, as it is built using only the Python Standard Library.Running the ChatbotOpen a terminal (or command prompt) and navigate to the project folder where chatbot.py is located:cd path/to/projectRun the Python script:python chatbot.pyThe chatbot will start a conversation, and you can type in your queries. Type exit to end the conversation.Example ConversationChatBot: Hello! Type 'exit' to end the conversation.
 You: Hi
 ChatBot: Hello! How can I assist you today?
